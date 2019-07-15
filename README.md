@@ -1,2 +1,2 @@
-# dailyOrganiser
+# dailyOrganizer
 React,Redux, Express Mongo 
